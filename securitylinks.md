@@ -38,7 +38,7 @@ From whitepapers to podcasts, and everything in between!
 
 [NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 
-## Learning
+## Learn
 
 [Professor Messer](https://www.professormesser.com)
 
@@ -62,6 +62,9 @@ From whitepapers to podcasts, and everything in between!
 
 [CyberChef](http://icyberchef.com)
 
+## Whitepapers
+
 ## Misc
 
+[The Creeper and the Reaper: Cybersecurity History](https://history-computer.com/the-first-computer-virus-of-bob-thomas-complete-history/)
 
