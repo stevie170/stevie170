@@ -20,6 +20,12 @@ From whitepapers to podcasts, and everything in between!
 
 [Daniel Miessler](https://danielmiessler.com)
 
+[Sophos Malware Dashboard](https://www.sophos.com/en-us/threat-center/threat-monitoring/malware-dashboard.aspx)
+
+[SANS ISC Threat Map](https://isc.sans.edu/threatmap.html)
+
+[ProofPoint EmergingThreats exploit kit status dashboard](https://threatintel.proofpoint.com)
+
 ## Professional Associations and Organizations
 
 [NTX ISSA](https://www.ntxissa.org)
