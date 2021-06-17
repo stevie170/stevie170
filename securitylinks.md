@@ -32,6 +32,8 @@ From whitepapers to podcasts, and everything in between!
 
 [CSNP](https://www.csnp.org)
 
+[InfraGard](https://www.infragard.org/Application/General/MoreInfo)
+
 [CompTIA](https://www.comptia.org)
 
 [SANS](https://www.sans.org)
@@ -49,6 +51,12 @@ From whitepapers to podcasts, and everything in between!
 [Professor Messer](https://www.professormesser.com)
 
 [Lynda.com / LinkedIn Learning](https://www.linkedin.com/learning/?trk=lynda_redirect_learning)
+
+[Class Central](https://www.classcentral.com/subject/cybersecurity)
+
+[Azure $100 credit for a student account](https://azure.microsoft.com/en-us/free/students/)
+
+[AWS Training and Certification](https://www.aws.training/Dashboard/)
 
 ## Videos
 
