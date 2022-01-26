@@ -12,7 +12,6 @@
     <outline text="SIEM" title="SIEM">
       <outline text="Microsoft Azure Blog &gt; Azure Sentinel" title="Microsoft Azure Blog &gt; Azure Sentinel" type="rss" xmlUrl="https://azurecomcdn.azureedge.net/en-us/blog/tag/azure-sentinel/feed/" htmlUrl="https://azure.microsoft.com/blog/tag/azure-sentinel/"/>
       <outline text="IBM Security Intelligence(QRadar/TSIEM/TSOM)" title="IBM Security Intelligence(QRadar/TSIEM/TSOM)" type="rss" xmlUrl="https://www.ibm.com/developerworks/community/forums/atom/entries?categoryUuid=33333333-0000-0000-0000-000000000528" htmlUrl="https://www.ibm.com/developerworks/community/forums/html/category?id=33333333-0000-0000-0000-000000000528"/>
-      <outline text="Splunk Blogs" title="Splunk Blogs" type="rss" xmlUrl="http://blogs.splunk.com/feed/" htmlUrl="http://blogs.splunk.com/"/>
       <outline text="Dell SecureWorks Cybersecurity Resources" title="Dell SecureWorks Cybersecurity Resources" type="rss" xmlUrl="https://www.secureworks.com/rss?feed=resources" htmlUrl="https://www.secureworks.com/resources"/>
       <outline text="AlienVault Blogs" title="AlienVault Blogs" type="rss" xmlUrl="http://feeds.feedblitz.com/alienvault-blogs" htmlUrl="https://www.alienvault.com/blogs"/>
     </outline>
