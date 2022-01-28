@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This is an xml file to aggregate sources into a single RSS feed -->
 <opml version="1.0">
-  <head>
-    <title>Security RSS Feeds</title>
-  </head>
-  <body>
-    <outline text="Encryption" title="Encryption">
-      <outline text="HashiCorp Blog" title="HashiCorp Blog" type="rss" xmlUrl="https://www.hashicorp.com/feed.xml" htmlUrl="http://www.hashicorp.com/blog"/>
+    <head>
+        <title>OPML file for RSS Feed</title>
+    </head>
+    <body>
+        <outline title="News" text="News">
+            <outline text="Big News Finland" title="Big News Finland" type="rss" xmlUrl="http://www.bignewsnetwork.com/?rss=37e8860164ce009a"/>
+            <outline text="Euronews" title="Euronews" type="rss" xmlUrl="http://feeds.feedburner.com/euronews/en/news/"/>
+            <outline text="Reuters Top News" title="Reuters Top News" type="rss" xmlUrl="http://feeds.reuters.com/reuters/topNews"/>
+            <outline text="Yahoo Europe" title="Yahoo Europe" type="rss" xmlUrl="http://rss.news.yahoo.com/rss/europe"/>
+        </outline>
+
+    <outline title="Encryption" text="Encryption">
+      <outline title="HashiCorp Blog" text="HashiCorp Blog" type="rss" xmlUrl="https://www.hashicorp.com/feed.xml" htmlUrl="http://www.hashicorp.com/blog"/>
       <outline text="encryption - Google News" title="encryption - Google News" type="rss" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=encryption&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="https://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=encryption"/>
       <outline text="Security – Verisign Blog" title="Security – Verisign Blog" type="rss" xmlUrl="https://blog.verisign.com/category/security/feed/" htmlUrl="https://blog.verisign.com/"/>
     </outline>
