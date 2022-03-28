@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevie170
 - 👀 I’m interested in security, scripting, automation, streamlining business practices, data visualization, travel, and running.
-- 🌱 I’m currently learning about cybersecurity careers, ethical hacking, networking, and python scripting.
+- 🌱 I’m currently learning about information security tools, cyber threat intelligence, ham radio, and python scripting.
 <!---  - 💞️ I’m looking to collaborate on --->
 - 📫 You can reach me on Twitter: @steviebtech
 
